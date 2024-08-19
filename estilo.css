@@ -1,0 +1,27 @@
+body{
+    background: rgba(144,167,176,1);
+    background: linear-gradient(144deg, rgba(144,167,176,1) 0%, rgba(255,255,255,1) 100%);
+}
+
+.conteudo{
+    border: 1px solid black;
+    display: flex;
+}
+
+.conteudo-login{
+    display: flex;
+    flex-direction: column;
+}
+
+.conteudo-formulario-interno{
+    display: flex;
+    flex-direction: column;
+}
+
+.conteudo-links{
+    background-color: blue;
+}
+
+.img-logo{
+    width: 200px;
+}
